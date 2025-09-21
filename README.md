@@ -1,4 +1,5 @@
 🏠 Luxury Housing Sales Analysis
+
 📌 Project Overview
 
 This project demonstrates a complete real estate analytics solution by integrating Python, SQL, and Power BI. The focus is on analyzing luxury housing sales data (100,000+ records) in Bengaluru, India, to extract insights on pricing trends, demand patterns, and location-based sales performance.
